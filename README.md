@@ -1,16 +1,12 @@
-# sliver
+# TouchNGo app clone in Flutter
 
-A new Flutter project.
+The Touch 'n Go smart card is used by Malaysian toll expressway and highway operators as the sole electronic payment system (https://www.touchngo.com.my).
 
-## Getting Started
+## Flutter
 
-This project is a starting point for a Flutter application.
+The project is for personal development study. For better data & file structuring, see Marcus Ng on Youtube for better tutorial (https://www.youtube.com/channel/UC6Dy0rQ6zDnQuHQ1EeErGUA).
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+![demo](demo.png)\
+## Animation
+![gif](demo.gif)
